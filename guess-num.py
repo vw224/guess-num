@@ -8,7 +8,7 @@
 
 import random
 num = random.randint(1, 100)
-print(num)
+#print(num)
 
 pwd = int(input("請輸入密碼: "))
 count = 0
